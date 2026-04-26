@@ -1,0 +1,3 @@
+AWS_ACCESS_KEY = "AKIAIOSFODNN7EXAMPLE"
+DB_PASSWORD = "supersecret123"
+STRIPE_KEY = "sk_live_4eC39HqLyjWDarjtT1zdp7dc"
